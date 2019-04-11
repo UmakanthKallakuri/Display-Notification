@@ -20,3 +20,7 @@ Refer to https://mahapps.com/guides/styles.html for the themes and colors suppor
 The script supports the below parameters
 1. TimerDuration = In minutes
 2. LogFile = If no file name is proivded, by default it is created scripts directory
+
+Light theme           |  Dark theme (process running)
+:-------------------------:|:-------------------------:
+![image](https://user-images.githubusercontent.com/49522841/55958116-750cc180-5c9a-11e9-94c5-93db2a849bb2.png) | ![image](https://user-images.githubusercontent.com/49522841/55958285-d6349500-5c9a-11e9-8209-7bf88bd585ce.png)
